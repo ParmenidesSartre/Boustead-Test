@@ -1,6 +1,6 @@
 # Boustead Test
 
-```markdown
+
 # React Leaf Cards Application
 
 This project is a simple React application that showcases a list of 50 cards with specific styling and interactivity based on the provided specifications. It utilizes Vite as the build tool and Tailwind CSS for styling.
